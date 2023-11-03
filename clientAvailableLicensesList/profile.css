@@ -1,0 +1,9 @@
+.btn-header {
+  text-align: end;
+}
+button {
+  border-radius: 50px;
+  background-color: aqua;
+  margin: 7px;
+  padding: 10px;
+}
